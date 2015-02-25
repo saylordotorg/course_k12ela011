@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12ELA011: English Language Arts 11"
+course_description: "This course is the third in the sequence of high school-level English courses, and will explore the literature of America, from the narratives of the early colonists to the foundational documents of our forefathers and contemporary literature."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Exploring Freedom: The Modern Era** <span id="7"></span> 
 **Now that all men and women were recognized as free and equal, there
 was nothing holding one back from achieving the American Dream, right?

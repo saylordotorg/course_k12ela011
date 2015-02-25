@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12ELA011: English Language Arts 11"
+course_description: "This course is the third in the sequence of high school-level English courses, and will explore the literature of America, from the narratives of the early colonists to the foundational documents of our forefathers and contemporary literature."
+next: ../../../
+previous: ../Unit08
+---
 **Unit 9: Post-Modernism** <span id="9"></span> 
 *World War II; inventions such as the radio, television, and computer;
 and Communism* *- what do all of these things have in common? They each

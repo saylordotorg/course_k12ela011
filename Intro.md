@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12ELA011: English Language Arts 11"
+course_description: "This course is the third in the sequence of high school-level English courses, and will explore the literature of America, from the narratives of the early colonists to the foundational documents of our forefathers and contemporary literature."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "K12ELA011: English Language Arts 11"
 ---------------------------------------------------------
 

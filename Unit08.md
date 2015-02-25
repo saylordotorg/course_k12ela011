@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12ELA011: English Language Arts 11"
+course_description: "This course is the third in the sequence of high school-level English courses, and will explore the literature of America, from the narratives of the early colonists to the foundational documents of our forefathers and contemporary literature."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: The Harlem Renaissance** <span id="8"></span> 
 *While World War I and the tough economic times disenchanted many
 Americans, others were embracing their newfound freedom. As African

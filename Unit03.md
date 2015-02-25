@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12ELA011: English Language Arts 11"
+course_description: "This course is the third in the sequence of high school-level English courses, and will explore the literature of America, from the narratives of the early colonists to the foundational documents of our forefathers and contemporary literature."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Seeking a National Literary Identity** <span id="3"></span> 
 **In the last unit, we analyzed American foundational documents and
 discovered how the pen, being indeed mightier than the sword,
