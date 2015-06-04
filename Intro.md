@@ -152,3 +152,14 @@ text, and right click to highlight. 
 
 [**Kindle**](http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000493771&ref=kcp_ipad_mkt_lnd)  
 
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/k12ela011/Unit01/)
+- [Unit 2](https://legacy.saylor.org/k12ela011/Unit02/)
+- [Unit 3](https://legacy.saylor.org/k12ela011/Unit03/)
+- [Unit 4](https://legacy.saylor.org/k12ela011/Unit04/)
+- [Unit 5](https://legacy.saylor.org/k12ela011/Unit05/)
+- [Unit 6](https://legacy.saylor.org/k12ela011/Unit06/)
+- [Unit 7](https://legacy.saylor.org/k12ela011/Unit07/)
+- [Unit 8](https://legacy.saylor.org/k12ela011/Unit08/)
+- [Unit 9](https://legacy.saylor.org/k12ela011/Unit09/)
