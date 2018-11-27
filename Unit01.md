@@ -270,7 +270,7 @@ id="1.2.1.2"></span> 
 **1.2.1.2.2 Use of Inversion** <span id="1.2.1.2.2"></span> 
 -   **Explanation: Wikipedia: “Inversion (linguistics)”**
     Link: Wikipedia: [“Inversion
-    (Linguistics)”](http://www.saylor.org/site/wp-content/uploads/2013/06/Inversion-linguistics-Wikipedia.pdf)  
+    (Linguistics)”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Inversion-linguistics-Wikipedia.pdf)  
       
      Instructions: Read the first paragraph of the Wikipedia entry on
     inversion. Then, scroll down to the section entitled “Subject - Verb
@@ -306,7 +306,7 @@ id="1.2.1.2"></span> 
 -   **Explanation: *Writing for Success*: “Chapter 2, Section 2:
     Subject - Verb Agreement”**
     Link: [*Writing for
-    Success*](http://www.saylor.org/site/textbooks/Writing%20for%20Success.pdf):
+    Success*](https://resources.saylor.org/archived/textbooks/Writing%20for%20Success.pdf):
     “Chapter 2, Section 2: Subject - Verb Agreement”  
         
      Instructions: Go to “Chapter 2: Writing Basics: What Makes a Good
