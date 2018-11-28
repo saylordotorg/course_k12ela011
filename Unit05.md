@@ -171,7 +171,7 @@ used to create such haunting and suspenseful reads.**
 id="5.1.1.1.1"></span> 
 -   **Activity: Wikipedia: “Tone (Literature)”**
     Link: Wikipedia: [“Tone
-    (Literature)”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Tone-literature-Wikipedia.pdf)  
+    (Literature)”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/Tone-literature-Wikipedia.pdf)  
       
      Instructions: Read the entry on tone, paying particular attention
     to the definition as well as the difference between tone and mood.
