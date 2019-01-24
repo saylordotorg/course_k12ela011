@@ -171,4 +171,4 @@ text, and right click to highlight. 
 - [Unit 7](https://legacy.saylor.org/k12ela011/Unit07/)
 - [Unit 8](https://legacy.saylor.org/k12ela011/Unit08/)
 - [Unit 9](https://legacy.saylor.org/k12ela011/Unit09/)
-- [Final Exam](http://saylordotorg.github.io/LegacyExams/K12/K12ELA011/K12ELA011-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/K12/K12ELA011/K12ELA011-FinalExam-Answers.html)
+- No final exam is available for this course
